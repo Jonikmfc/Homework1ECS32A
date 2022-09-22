@@ -1,0 +1,8 @@
+
+import time
+for List in "Give Me An A+":
+	print(List)
+time.sleep(3)
+print("Please :)")
+
+
